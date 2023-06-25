@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3935d92c-afac-453b-ac1c-d236ab8c2fec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Geom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geom/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geom/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geom/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/Center.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/Hexagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/main/java/org/example/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Geometria/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicetta0.1/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GestioneRicette/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-Animal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-Animal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-Animal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-Animal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-Animal/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP-Animal/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProvaEsame/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ServerHTTP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringToHtml/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provaEsameHttp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provaEsameHttp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provaEsameHttp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provaEsameHttp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provaEsameHttp/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../provaEsameHttp/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/src/main/java/org/example/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webSocket/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/src/main/java/com/example/snake/SnakeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake/src/main/java/com/example/snake/SnakeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/src/main/resources/com/example/snake/Login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake/src/main/resources/com/example/snake/Login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake/src/main/resources/com/example/snake/layoutSnake.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Snake/src/main/resources/com/example/snake/layoutSnake.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/org/example/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/test/java/org/example/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Ri8Il5ZzaNb52lmGOhlCFG7UFh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3935d92c-afac-453b-ac1c-d236ab8c2fec" name="Changes" comment="" />
+      <created>1687721465199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687721465199</updated>
+      <workItem from="1687721466708" duration="1525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
